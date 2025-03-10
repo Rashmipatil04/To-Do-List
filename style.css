@@ -1,0 +1,49 @@
+
+.box {
+    color: black;
+    margin-left: 530px;
+    margin-top: 100px;
+    border: ridge;
+    height: auto;
+    width: 450px;
+    border-color: black;
+    border-radius: 20px;
+    padding: 20px;
+}
+
+
+.set {
+    text-align: center;
+}
+
+
+button {
+    padding: 10px;
+    margin: 10px 0;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+
+input[type="text"],
+input[type="number"] {
+    padding: 5px;
+    width: 100%;
+    margin: 5px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+
+ol {
+    padding-left: 20px;
+}
+
+
+li {
+    font-size: 18px;
+    margin: 5px 0;
+}
